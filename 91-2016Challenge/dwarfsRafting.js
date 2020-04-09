@@ -1,6 +1,5 @@
 // https://app.codility.com/programmers/lessons/91-tasks_from_indeed_prime_2016_challenge/dwarfs_rafting/
 // results - https://app.codility.com/demo/results/training48DMVS-9ZE/
-// needs some fixes for maximal boards??
 
 // you can write to stdout for debugging purposes, e.g.
 // console.log('this is a debug message');
