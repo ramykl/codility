@@ -1,5 +1,7 @@
 # Javascript solutions to Codility lessons and challenges
 
+I used https://gist.github.com/lalkmim/e04845eb9d1c5936622a for help, for a few of them and various other solutions online, just changed for JS.
+
 ## Lessons
 ### 01 - Iterations
 binary gap - https://app.codility.com/demo/results/training2FAAGH-ADU/
@@ -131,19 +133,17 @@ tree product - ### WIP
 ### 92 - 2016 College Challenge
 array recovery - ### WIP
 
-diamonds count - ### WIP
+diamonds count - https://app.codility.com/demo/results/training9WD44T-CTR/ ### needs optimisation
 
 socks laundering - https://app.codility.com/demo/results/trainingCGKTMW-ZPV/
 
-tennis tournament - 
+tennis tournament - https://app.codility.com/demo/results/training6MPCJE-CB3/
 
 ### 99 - Future training
-array inversion count - 
+array inversion count - https://app.codility.com/demo/results/trainingFNXB4Y-GMH/
 
-sql sum - 
+polygon concavity index - https://app.codility.com/demo/results/trainingDJ9JDA-M77/ ### WIP
 
-polygon concavity index - 
+str symmetry point - https://app.codility.com/demo/results/training53T27D-P32/
 
-str symmetry point - 
-
-tree height - 
+tree height - https://app.codility.com/demo/results/trainingAXVA25-YEV/ (quick answer https://app.codility.com/demo/results/trainingQMG2QK-Z4K/ yay strings)
