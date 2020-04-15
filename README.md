@@ -142,7 +142,7 @@ tennis tournament - https://app.codility.com/demo/results/training6MPCJE-CB3/
 ### 99 - Future training
 array inversion count - https://app.codility.com/demo/results/trainingFNXB4Y-GMH/
 
-polygon concavity index - https://app.codility.com/demo/results/trainingDJ9JDA-M77/ ### WIP
+polygon concavity index - https://app.codility.com/demo/results/trainingWGQW9N-FVT/ ### WIP
 
 str symmetry point - https://app.codility.com/demo/results/training53T27D-P32/
 
